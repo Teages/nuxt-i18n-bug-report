@@ -1,0 +1,75 @@
+{
+  "cSpell.words": [
+    "antfu",
+    "attributify",
+    "codegen",
+    "creditmeta",
+    "Cytoid",
+    "cytusol",
+    "daisyui",
+    "demi",
+    "dompurify",
+    "gameplay",
+    "hitech",
+    "iconify",
+    "intlify",
+    "kidonng",
+    "leaderboard",
+    "nocheck",
+    "Noto",
+    "Nunito",
+    "nuxt",
+    "nuxtjs",
+    "ofetch",
+    "ohmyfetch",
+    "persistedstate",
+    "pinia",
+    "pnpm",
+    "recaptcha",
+    "sess",
+    "signout",
+    "storyboarder",
+    "tailwindcss",
+    "teages",
+    "unocss",
+    "unplugin",
+    "urql",
+    "Vite",
+    "vitejs",
+    "Vitesse",
+    "vitest",
+    "vueuse",
+    "websockets",
+    "wonka"
+  ],
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "editor.formatOnSave": false,
+  "i18n-ally.localesPaths": [
+    "locale"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.pathMatcher": "{locale}/{namespaces}.json",
+  "i18n-ally.namespace": true,
+  "i18n-ally.sourceLanguage": "en",
+
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "yaml"
+  ]
+
+}
